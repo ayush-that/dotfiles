@@ -1,0 +1,21 @@
+2023-06-20 09:53:26.155 [info] Getting Manifest... ms-python.python
+2023-06-20 09:53:26.170 [info] Installing extension: ms-python.python
+2023-06-20 09:53:26.994 [info] Getting Manifest... ms-python.vscode-pylance
+2023-06-20 09:53:27.072 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-06-20 09:53:32.182 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2023-06-20 09:53:34.076 [info] Extracted extension to /home/memes/.vscode/extensions/.662e4e6a-2674-45c4-a356-606d0864d0db: ms-python.python
+2023-06-20 09:53:34.149 [info] Renamed to /home/memes/.vscode/extensions/ms-python.python-2023.10.1
+2023-06-20 09:53:34.154 [info] Extracting extension completed. ms-python.python
+2023-06-20 09:53:37.426 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-06-20 09:53:40.578 [info] Extracted extension to /home/memes/.vscode/extensions/.e7468c1d-93a8-4150-9bea-2eb4bd491f39: ms-python.vscode-pylance
+2023-06-20 09:53:40.672 [info] Renamed to /home/memes/.vscode/extensions/ms-python.vscode-pylance-2023.6.20
+2023-06-20 09:53:40.676 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-06-20 09:53:40.725 [info] Extension installed successfully: ms-python.python
+2023-06-20 09:53:40.725 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-06-20 09:54:02.085 [info] Getting Manifest... ms-vscode.cpptools
+2023-06-20 09:54:02.095 [info] Installing extension: ms-vscode.cpptools
+2023-06-20 09:54:23.658 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.cpptools
+2023-06-20 09:54:25.573 [info] Extracted extension to /home/memes/.vscode/extensions/.91c59ccc-349c-433a-99e1-ff4d918e5ca1: ms-vscode.cpptools
+2023-06-20 09:54:25.621 [info] Renamed to /home/memes/.vscode/extensions/ms-vscode.cpptools-1.15.4-linux-x64
+2023-06-20 09:54:25.632 [info] Extracting extension completed. ms-vscode.cpptools
+2023-06-20 09:54:25.678 [info] Extension installed successfully: ms-vscode.cpptools

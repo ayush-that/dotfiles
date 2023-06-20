@@ -1,0 +1,10 @@
+2023-06-20 09:53:12.460 [info] [perf] Render performance baseline is 35ms
+2023-06-20 09:54:25.886 [error] Assertion Failed: argument is undefined or null: Error: Assertion Failed: argument is undefined or null
+    at o (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:1763)
+    at Xu.dc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2520:66032)
+    at Xu.ec (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2520:70147)
+    at Xu.rc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2520:87382)
+    at async Xu.hc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2520:73715)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2520:60935
+2023-06-20 09:54:26.476 [error] [Extension Host] (node:35772) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)

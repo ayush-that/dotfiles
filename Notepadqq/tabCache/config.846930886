@@ -1,0 +1,70 @@
+# i3blocks config file
+#
+# Please see man i3blocks for a complete reference!
+# The man page is also hosted at http://vivien.github.io/i3blocks
+#
+# List of valid properties:
+#
+# align
+# color
+# command
+# full_text
+# instance
+# interval
+# label
+# min_width
+# name
+# separator
+# separator_block_width
+# short_text
+# signal
+# urgent
+
+# Global properties
+separator_block_width=5
+
+[focused window]
+command=xdotool getactivewindow getwindowname
+interval=8
+color=#A6D1FA
+
+[cpu]
+label=
+command=/usr/share/i3blocks/cpu_usage
+interval=10
+min_width=100.0%
+
+[load]
+label=
+command=/usr/share/i3blocks/load_average
+interval=10
+separator=false
+
+[ethernet]
+label=
+instance=enp0s3
+command=/usr/share/i3blocks/bandwidth
+color=#00FF00
+interval=30
+separator=true
+
+[disk]
+label=
+command=/usr/share/i3blocks/disk
+instance=/home
+color=#FFA0FF
+interval=30
+
+[memory]
+label=
+command=/usr/share/i3blocks/memory
+separator=false
+color=#A0F0FF
+interval=30
+
+[time]
+label=
+command=date '+%Y-%m-%d %H:%M'
+interval=60
+color=#00FF00
+separator=false

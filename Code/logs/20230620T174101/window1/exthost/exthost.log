@@ -1,0 +1,7 @@
+2023-06-20 17:41:02.344 [info] Extension host with pid 9815 started
+2023-06-20 17:41:02.344 [info] Skipping acquiring lock for /home/memes/.config/Code/User/workspaceStorage/4b17e1c49eca9d1040edf10924d8ec6a.
+2023-06-20 17:41:02.421 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-20 17:41:02.441 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-06-20 17:41:02.466 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-06-20 17:41:02.469 [info] Extension host terminating: renderer closed the MessagePort
+2023-06-20 17:41:02.470 [info] Extension host with pid 9815 exiting with code 0
